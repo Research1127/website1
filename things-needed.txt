@@ -1,0 +1,18 @@
+Create website online
+    - Codeply               -- help u to create website and see the design on the spot--
+
+Website for Icon
+    - Giphy.com             -- find the live icon --
+    - Flaticon.com          -- find the emoji --
+
+App needed to download
+    - getbootsrap.com      -- download the bootstrap -- Get design idea for front end (Go to example of that page) -- get the cdn link for use bootstrap if dont want to download the source code --
+
+Design Dashboard 
+    - Dribbble.com          --find the design u need--good because can search by category and color--
+
+Create Mockup Design
+    - balsamiq.com          -- this is to create the design of website and share to vendor if u want--
+
+
+
